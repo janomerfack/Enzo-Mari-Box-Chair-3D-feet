@@ -1,5 +1,5 @@
 # Enzo-Mari-Box-chair-3D-feet
-3D model for the feet of the Enzo Mari Box chair
+3D model for Enzo Mari Box chair feet
 
 ## Version 0.0.1
 - Polygon mesh
